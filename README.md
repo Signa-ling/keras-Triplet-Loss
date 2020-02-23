@@ -10,7 +10,7 @@
 
 MNISTで行うと以下のような結果となる.
 
-![evalute]()
+![evalute](./example/evalute.png)
 
 ## Require
 
