@@ -1,0 +1,4 @@
+keras
+tensorflow-gpu==2.0.0
+matplotlib
+scikit-learn

@@ -12,7 +12,7 @@ from model.model import base_model
 def main():
     input_shape = (28, 28, 1)
     embedding = 32
-    weight_pass = './save_weight/{}.hdf5'.format('weight') 
+    weight_pass = './save_weight/{}.hdf5'.format('weight')
 
     _, (x_test, y_test) = generate_load_data(input_shape, embedding, train_mode=False)
 

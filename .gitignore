@@ -1,2 +1,3 @@
 /venv_keras_tripletloss/
 /.vscode/
+/save_weight/weight.hdf5
